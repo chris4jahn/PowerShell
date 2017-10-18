@@ -1,5 +1,6 @@
 # PowerShell
 Usefull PS scripts, nothing new 
+In this repository I will make ps scripts publicly available that I use a lot for Microsoft Azure Administration. Feel free to use them. I am happy for any feedback or adjustment. 
 
 THE SOFTWARE OR CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
